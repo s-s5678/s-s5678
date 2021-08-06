@@ -1,4 +1,4 @@
-<a href="#"><img align="center" width="250px" src="https://thumbs.dreamstime.com/b/cartoon-color-character-person-female-digital-marketing-concept-vector-flat-design-style-include-computer-illustration-189533159.jpg" height="250px"/></a>
+<a href="#"><img align="center" width="300px" src="https://thumbs.dreamstime.com/b/cartoon-color-character-person-female-digital-marketing-concept-vector-flat-design-style-include-computer-illustration-189533159.jpg" height="300px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saily</h1>
 <h3 align="center">I'm a Web Development and Data Science Enthusiast from India.</h3>
