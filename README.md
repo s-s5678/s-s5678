@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://thumbs.dreamstime.com/b/cartoon-color-character-person-female-digital-marketing-concept-vector-flat-design-style-include-computer-illustration-189533159.jpg" height="175px"/></a>
+<a href="#"><img width="100%" src="https://thumbs.dreamstime.com/b/cartoon-color-character-person-female-digital-marketing-concept-vector-flat-design-style-include-computer-illustration-189533159.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saily</h1>
 <h3 align="center">I'm a Web Development and Data Science Enthusiast from India.</h3>
@@ -36,7 +36,7 @@
 
 <p align="center">
     <a href="https://github.com/s-s5678/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pao0318&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=s-s5678&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
