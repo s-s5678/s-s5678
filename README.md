@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Connect to me via LinkedIn **[LinkedIn](www.linkedin.com/in/saily-samanta-7260ba1b5)**
+- 👨‍💻 Connect to me via LinkedIn **[LinkedIn] (https://www.linkedin.com/in/saily-samanta-7260ba1b5/)**
 
 - 📫 How to reach me **sailysamanta2000@gmail.com**
 
